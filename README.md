@@ -1,4 +1,4 @@
-# Investment-Advisor-
+# About Investment-Advisor Project-
 
 The Investment Advisor Data Analytics project is a component of the larger Investment Advisor project. Our objective is to analyze large volumes of data related to financial markets, economic trends, and asset performance, to generate insights and recommendations for the new investors to invest in different stocks to grow their wealth.
 
