@@ -6,7 +6,7 @@ The Investment Advisor Data Analytics project will involve collecting, cleaning,
 
 # Tech stack used:
 ### Python Pandas (for data wrangling)
-### Pandas,Matplotli,Seaborn (for retrieving insights from data).
+### Pandas,Matplotlib,Seaborn (for retrieving insights from data).
 ### Microsoft Excel & PowerPoint (for visualising and presenting insights).
 
 
