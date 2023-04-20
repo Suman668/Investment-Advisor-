@@ -4,3 +4,9 @@ The Investment Advisor Data Analytics project is a component of the larger Inves
 
 The Investment Advisor Data Analytics project will involve collecting, cleaning, and organizing financial data from a variety of sources, such as stock exchanges, financial news websites, and economic indicators. The data will then be analyzed using Python libraries to identify patterns and trends, and to generate insights about market conditions and investment opportunities.
 
+# Tech stack used:
+### Python (for data wrangling)
+### Pandas (for retrieving insights from data).
+### Microsoft Excel & PowerPoint(for visualising and presenting insights).
+
+
